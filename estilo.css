@@ -1,0 +1,208 @@
+*
+{
+	margin: 0px;
+}
+
+body
+{
+	background-color: rgb(255, 239, 213);
+}
+
+.l1
+{
+	border-radius: 17px;
+	padding-top: 2%;
+	position: relative;
+	margin-left: 10vh;
+	width: 90%;
+	background: rgb(152, 251, 152);
+	margin-bottom: 5vh;
+	text-align: center;
+	font-size: 30px;  
+}
+
+.t1
+{
+	
+	font-family: cursive;
+	top: 100px;
+}
+
+.tx1
+{
+	border-radius: 10px;
+    font-size: 13.1px;
+    font-family: cursive;
+	background: rgb(176, 224, 230);
+	position: absolute;
+	width: 30%;
+	height: 130px;
+	margin-left: 10%;
+	margin-top: 3%;
+	      
+
+}
+
+.tx2
+{
+	border-radius: 10px;
+	font-size: 13.1px;
+    font-family: cursive;
+	position: absolute;
+	margin-left: 60%;
+	margin-top: 5%; 
+	background: rgb(176, 224, 230);
+	position: relative;
+	width: 30%;
+	height: 200px;
+}
+
+.ig
+{
+	position: relative;
+	margin-top: 30%;
+	background: url(tecnolo.jpg);
+	height: 146px;
+	width: 250px;
+	margin-left: 40%;
+}
+
+
+
+@media only screen and (max-width: 5000px)
+{
+	
+.tx1
+{
+	background: rgb(176, 224, 230);
+	position: absolute;
+	width: 30%;
+	height: 110px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+.tx2
+{
+	position: absolute;
+	margin-left: 60%;
+	margin-top: 4%; 
+    background: rgb(176, 224, 230);
+	width: 30%;
+	height: 100px;
+}
+.ig
+{
+	position: relative;
+	margin-top: 70%;
+	background: url(tecnolo.jpg);
+	height: 146px;
+	width: 250px;
+	margin-left: 38%;
+}
+
+
+}
+@media only screen and (max-width: 3000px)
+{
+	
+.tx1
+{
+	background: rgb(176, 224, 230);
+	position: absolute;
+	width: 30%;
+	height: 150px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+.tx2
+{
+	position: absolute;
+	margin-left: 60%;
+	margin-top: 4%; 
+	background: rgb(176, 224, 230);
+	width: 30%;
+	height: 130px;
+}
+.ig
+{
+	position: relative;
+	margin-top: 30%;
+	background: url(tecnolo.jpg);
+	height: 146px;
+	width: 250px;
+	margin-left: 38%;
+}
+
+}
+@media only screen and (max-width: 1000px)
+{
+	
+.tx1
+{
+	background: rgb(176, 224, 230);
+	position: absolute;
+	width: 30%;
+	height: 150px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+.tx2
+{
+	position: relative;
+	margin-left: 60%;
+	margin-top: 5%; 
+	background: rgb(176, 224, 230);
+	position: relative;
+	width: 30%;
+	height: 200px;
+}
+.ig
+{
+	position: relative;
+	margin-top: 15%;
+	background: url(tecnolo.jpg);
+	height: 146px;
+	width: 250px;
+	margin-left: 30%;
+}
+
+
+}
+@media only screen and (max-width: 900px)
+{
+
+.tx1
+{
+	background: rgb(176, 224, 230);
+	position: absolute;
+	width: 30%;
+	height: 310px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+.tx2
+{
+	position: relative;
+	margin-left: 5%;
+	margin-top: 80%; 
+	background: rgb(176, 224, 230);
+	position: relative;
+	width: 30%;
+	height: 300px;
+}
+
+.ig
+{
+	position: relative;
+	margin-top: 20%;
+	background: url(tecnolo.jpg);
+	height: 146px;
+	width: 150px;
+	margin-left: 4%;
+}
+
+
+}
+
+
+
